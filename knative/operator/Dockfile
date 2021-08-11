@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/knative.dev/operator/cmd/operator:latest
+FROM gcr.io/knative-releases/knative.dev/operator/cmd/operator@sha256:21c3426aa7fb67566193b9d33aadceb167e347bbad876d3bf5e63c8270f6ff20FROM 
 
